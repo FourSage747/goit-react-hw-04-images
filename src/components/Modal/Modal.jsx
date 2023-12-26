@@ -24,7 +24,7 @@ export const Modal = ({largeImageURL, closeModal}) => {
       }
   },[closeModal])
 
-    // const { largeImageURL, closeModal } = this.props;
+    
     
 
     
